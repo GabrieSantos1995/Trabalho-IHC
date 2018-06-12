@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\bin\Debug\Trabalho Módulo 2 - IHC].exe.config
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\bin\Debug\Trabalho Módulo 2 - IHC].exe
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\bin\Debug\Trabalho Módulo 2 - IHC].pdb
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\obj\Debug\Trabalho Módulo 2 - IHC].csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\obj\Debug\Trabalho_Módulo_2___IHC_.Form1.resources
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\obj\Debug\Trabalho_Módulo_2___IHC_.Properties.Resources.resources
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\obj\Debug\Trabalho Módulo 2 - IHC].csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\obj\Debug\Trabalho Módulo 2 - IHC].csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\obj\Debug\Trabalho Módulo 2 - IHC].exe
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\obj\Debug\Trabalho Módulo 2 - IHC].pdb
+C:\Users\Admin\source\repos\Trabalho Módulo 2 - IHC]\Trabalho Módulo 2 - IHC]\obj\Debug\Trabalho_Módulo_2___IHC_.Form2.resources
